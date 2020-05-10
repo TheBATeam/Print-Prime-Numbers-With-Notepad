@@ -1,5 +1,5 @@
 # Print-Prime-Numbers-With-Notepad
-This **Batch program** contains algorithms for calculating Prime Numbers.So, I’ve made two batch files for calculations – but, the algorithm by which they are calculating **prime numbers** is slightly different. Due to this reason, one is calculating them **faster than other**.
+This **Batch program** contains algorithms for calculating Prime Numbers. So, I’ve made two batch files for calculations – but, the algorithm by which they are calculating **prime numbers** is slightly different. Due to this reason, one is calculating them **faster than other**.
 
 ![Print Prime Numbers | By kvc ](https://i2.wp.com/www.thebateam.org/wp-content/uploads/2018/12/26-1.png?w=634&ssl=1)
 
